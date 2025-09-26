@@ -18,8 +18,7 @@ Features
 📱 Mobile Optimized - Designed specifically for mobile devices
 ![App Screenshot](https://blogger.googleusercontent.com/img/a/AVvXsEgylaEIrr8Yxk2iHCXV-wfT-Lb5mKt616Tqj-OuxsQqTyChZwHnwwBO4Ci96XRJ9O17zK2tLt_TVzaKXisaiFssuXR7e46lC1oFDZ4vWirWIe3rLbISRILdSLdPtCacNovPhCqh3zAtcMI5dO_7JAPY6SVZuHos1jW2uFzMrxOJWjv4-sojTBy7V6hPAwsZ)
 
-Screenshots
-<img src="screenshots/add_note.jpg" alt="Add Note Screen" width="300"/> <img src="screenshots/notes_list.jpg" alt="Notes List Screen" width="300"/>
+
 Tech Stack
 Flutter - UI framework for building natively compiled applications
 
